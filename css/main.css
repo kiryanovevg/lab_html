@@ -27,8 +27,17 @@ header {
 article {
     flex-grow: 1;
     order: 2;
+    margin: 15px 35px 35px 35px;
 }
 
 footer {
     order: 3;
+}
+
+.elevation {
+    box-shadow: 0 0 8px rgba(0,0,0,0.5);
+}
+
+.corners {
+    border-radius: 10px;
 }

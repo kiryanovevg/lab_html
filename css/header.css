@@ -1,9 +1,9 @@
 header {
-    height: 30vh;
-    margin: 35px;
+    padding: 35px;
     font-size: 48px;
     font-weight: bold;
     text-decoration-line: underline;
     text-decoration-style: solid;
     text-decoration-color: gold;
+    /*background-color: red;*/
 }
