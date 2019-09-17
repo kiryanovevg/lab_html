@@ -83,6 +83,12 @@ div.info > div.content {
     margin-top: 8px;
 }
 
+div.info > div.align-left {
+    text-align: left;
+    margin-right: 25vh;
+}
+
 div.info > div.align-right {
     text-align: right;
+    margin-left: 25vh;
 }

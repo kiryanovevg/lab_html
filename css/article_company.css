@@ -2,7 +2,7 @@ article {
 
 }
 
-img {
+article > img {
     object-fit: contain;
     float: left;
     margin-right: 12px;
